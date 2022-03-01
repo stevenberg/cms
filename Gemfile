@@ -12,7 +12,7 @@ gem "rails", "~> 6.0.1"
 gem "sass-rails", ">= 6"
 gem "turbolinks", "~> 5"
 gem "webpacker", "~> 4.0"
-gem "image_processing", "~> 1.2"
+gem "image_processing", "~> 1.12"
 gem "redis", "~> 4.0"
 
 group :development, :test do
